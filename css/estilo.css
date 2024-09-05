@@ -1,0 +1,145 @@
+*{
+margin: 0px;
+background: black;
+
+}
+.c{
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+	position: relative;
+		left: 300px;
+
+
+}
+.c1{
+	width: 200px;
+	height: 50px;
+	background-color: purple;
+	position: absolute;
+		top: 60%;
+		left: -50%;
+	border-radius: 100%;
+
+}
+.c2{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	position: absolute;
+		top: 60%;
+
+	border-radius: 100%;
+
+}
+
+.c3{
+	width: 300px;
+	height: 300px;
+	background-color: white;
+	position: absolute;
+		top: 100%;
+		left: -25%;
+	border-radius: 300%;
+
+}
+.c4{
+	width: 400px;
+	height: 350px;
+	background-color: white;
+	position: absolute;
+		top: 100%;
+		left: -17%;
+	border-radius: 300%;
+
+}
+.c5{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	position: absolute;
+		left: 45%;
+		top: 25%;
+
+	border-radius: 100%;
+}
+.c6{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	position: absolute;
+		left: 45%;
+		top: 45%;
+
+	border-radius: 100%;
+}
+.c7{
+	width: 30px;
+	height: 30px;
+	background-color: black;
+	position: absolute;
+		left: 45%;
+		top: 65%;
+
+	border-radius: 100%;
+}
+.c8{
+	width: 200px;
+	height: 30px;
+	background-color: brown;
+	position: absolute;
+		top:15%;
+		left: 90%;
+	transform: rotate(-25deg);
+}
+.c9{
+	width: 200px;
+	height: 30px;
+	background-color: brown;
+	position: absolute;
+		top:15%;
+		left: -160px;
+	transform: rotate(25deg);
+
+}
+.c10{
+	width: 20px;
+	height: 20px;
+	background-color: black;
+	position: absolute;
+	right: 30%;
+	top: 25%;
+
+	border-radius: 100%;
+}
+.c11{
+	width: 20px;
+	height: 20px;
+	background-color: black;
+	position: absolute;
+	left: 30%;
+	top: 25%;
+
+
+	border-radius: 100%;
+}
+.c12{
+	width: 100px;
+	height: 10px;
+	background-color: brown;
+	position: absolute;
+		top:75%;
+		left: 25%;
+
+}
+.c13 {
+    width: 0;
+    height: 0;
+    position: absolute;
+    	top: 45%;
+    	left: 40%; 
+    border-left: 20px solid white;
+    border-right: 20px solid white;
+    border-bottom: 40px solid brown;
+
+}
